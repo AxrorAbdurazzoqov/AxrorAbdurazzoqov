@@ -2,7 +2,7 @@
 
 ## Hello, World! 👋
 
-Welcome to my GitHub profile! I'm AXROR, a passionate .NET enthusiast excited about building innovative software solutions. Here's a little about me:
+Welcome to my GitHub profile! I'm AXROR
 
 ### Technologies & Tools 🛠️
 - **Languages:** C#, .NET Core, ASP.NET, SQL, JavaScript
