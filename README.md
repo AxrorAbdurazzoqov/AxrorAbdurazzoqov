@@ -1,7 +1,46 @@
-<h3 align="center">
-    Welcome to Akhror's profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋,<br> I'm Akhror Abdurazzoqov</h1>
+<h3 align="center">Flutter developer from Uzbekistan</h3>
+<p align="center">I'm hooked on computer tech 🌐! Since I was a kid, software engineering has been my jam. I love diving into new tech 💻 and bringing ideas to life. Let's create some magic together! ✨
+
+🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=AxrorAbdurazzoqov&label=Profile%20views&color=0e75b6&style=flat" alt="AxrorAbdurazzoqov" /> 
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/axror-abdurazzoqov-b927222a3/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Axror Abdurazzoqov" height="30" width="40" />
+</a>
+    
+<a href="https://t.me/axror_abdurazzoqov" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
+</a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
+<br><br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AxrorAbdurazzoqov&show_icons=true&theme=dark" alt="Axror Abdurazzoqov's GitHub stats" />
+    </td>
+    <td>
+      <img align="top" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    </td>
+  </tr>
+</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxrorAbdurazzoqov&theme=dark)
+
 
 <div> 
  <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
