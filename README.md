@@ -14,21 +14,11 @@
 🔗 Connect with me
 <p align="center">
 
-📑 CV:
-<a href="https://drive.google.com/file/d/12uWBppsbcTupEeFLIsiSWqcia0xMYcw6/view?usp=sharing" target="_blank">
-https://drive.google.com/file/d/12uWBppsbcTupEeFLIsiSWqcia0xMYcw6/view
-
 </a>
 
 🪪 LinkedIn:
 <a href="https://www.linkedin.com/in/axror-abdurazzoqov" target="_blank">
 https://www.linkedin.com/in/axror-abdurazzoqov
-
-</a>
-
-👨🏻‍💻 GitHub:
-<a href="https://github.com/AxrorAbdurazzoqov" target="_blank">
-https://github.com/AxrorAbdurazzoqov
 
 </a>
 
