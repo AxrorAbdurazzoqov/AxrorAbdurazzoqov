@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const abdalluhEssam = {
+const axror = {
     role: "Mobile Application Developer",
     company: "Urfan LLC and Yurtal",
     experience: "2+ Years in Production",
